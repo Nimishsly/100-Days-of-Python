@@ -1,0 +1,16 @@
+what is python 
+
+python is dinamically typed, genral pupose programming language 
+is is object oriented programming language 
+it is high level programming language
+it is platform independent (mac , windows , linux)
+it is open source
+
+
+Python is used for 
+
+Python is used for data visualization 
+it helps in data analytics
+it is used in AI and MI
+used to create web applications
+it is used for automation purpose
