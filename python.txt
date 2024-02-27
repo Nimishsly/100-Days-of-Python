@@ -14,3 +14,16 @@ it helps in data analytics
 it is used in AI and MI
 used to create web applications
 it is used for automation purpose
+
+list is changable 
+toupels are not changable
+list can contain multiple datatypes
+
+
+list methods
+append = addes another item at the end of list 
+sort = sort the list in assending order
+reverse = print list in reverse order
+index = gives the index of item 
+count = count the occuranceof any item in list 
+insert = can used to insert new item in given index 
